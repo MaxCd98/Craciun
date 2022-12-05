@@ -2,7 +2,6 @@
 Be nice and be festive 🎄
 Feel free to use what I've built
 
-*********************************
 A little disclaimer
 *************************************************
 *In this project are people faces who           *
